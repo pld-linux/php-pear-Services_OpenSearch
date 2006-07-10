@@ -31,7 +31,7 @@ porting Perl modules WWW::OpenSearch.
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-Umo¿liwia dostêp do wyszukiwarek kompaybilnych z A9 OpenSearch. Jest
+Umo¿liwia dostêp do wyszukiwarek kompatybilnych z A9 OpenSearch. Jest
 to port modu³u Perla WWW::OpenSearch.
 
 Ta klasa ma w PEAR status: %{_status}.
