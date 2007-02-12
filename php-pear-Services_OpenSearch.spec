@@ -5,7 +5,7 @@
 %define		_pearname	Services_OpenSearch
 
 Summary:	%{_pearname} - Search A9 OpenSearch compatible engines
-Summary(pl.UTF-8):   %{_pearname} - wyszukiwanie w silnikach kompatybilnych z A9 OpenSearch
+Summary(pl.UTF-8):	%{_pearname} - wyszukiwanie w silnikach kompatybilnych z A9 OpenSearch
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
