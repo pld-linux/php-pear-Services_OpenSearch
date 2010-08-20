@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Search A9 OpenSearch compatible engines
 Summary(pl.UTF-8):	%{_pearname} - wyszukiwanie w silnikach kompatybilnych z A9 OpenSearch
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
-Release:	2
+Version:	0.2.0
+Release:	1
 License:	PHP License 3.0
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	bff686fc6586146e33b64cfb478dc902
+# Source0-md5:	c35f714d07c44dde177cc2fadb63a5e0
 URL:		http://pear.php.net/package/Services_OpenSearch/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
