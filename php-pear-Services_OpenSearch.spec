@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Services_OpenSearch
 Summary:	%{_pearname} - Search A9 OpenSearch compatible engines
